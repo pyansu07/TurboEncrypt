@@ -2,7 +2,7 @@
 
 ## Idea:
 
-- Divides the file into different small-small parts, encrypts each part at same time (kind of parallel circuits/methods) and then combines the encrypted part into a single file.
+- Divides the file into different small-small parts, encrypts each part at same time (kind of parallel circuits) and then combines the encrypted part into a single file.
 
 - Use of some standard encryption method.
 
